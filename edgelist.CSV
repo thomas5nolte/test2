@@ -12,27 +12,27 @@ Lilli,Verena,3,3,7
 
 Lilli,Maximilian,1,3,7
 
-Lilli,Andrea,1,3,NA
+Lilli,Andrea,1,3,99
 
 Lena,Verena,2,3,7
 
-Lena,Maximilian,1,2,NA
+Lena,Maximilian,1,2,99
 
-Lena,Andrea,1,3,NA
+Lena,Andrea,1,3,99
 
 Andrea,Verena,3,3,1
 
-Andrea,Lilli,1,3,NA
+Andrea,Lilli,1,3,99
 
-Andrea,Lena,1,3,NA
+Andrea,Lena,1,3,99
 
-Andrea,Maximilian,1,2,NA
+Andrea,Maximilian,1,2,99
 
 Maximilian,Verena,4,2,9
 
 Maximilian,Lilli,1,3,7
 
-Maximilian,Lena,1,2,NA
+Maximilian,Lena,1,2,99
 
-Maximilian,Andrea,1,2,NA
+Maximilian,Andrea,1,2,9
 
