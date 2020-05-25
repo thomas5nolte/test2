@@ -1,5 +1,5 @@
 from,to,weight,duration,relationship
-Verena,
+Verena,Lena,2,2,3
 Verena,Lilli,3,3,7
 Verena,Lena,2,3,7
 Verena,Andrea,3,3,1
