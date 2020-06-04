@@ -44,6 +44,9 @@ Es wird auf die Studie "Tactical Social Network Analysis" von Bichler, Lim und L
 ##  ............................................................................
 ##  Arbeitshypothesen
 Wir gehen von folgenden Arbeitshyptothesen aus:
+Wir gehen davon aus, dass Beziehungen zwischen den Opfern der Tatemorden und La Bianca gab. 
+Wir gehen davon aus, dass die Mansonfamilie ein sehr enges Verhältnis hatte. 
+Wir gehen davon aus, dass Charles Manson der Alleinige Anführer der Mansonfamilie war.
 
 
 #   ............................................................................
@@ -1008,14 +1011,10 @@ plot(ho_ge_cli,
 
 # Literatur und Anhang  
 
+## __a) verwendete Literatur__  
 
-
-
-
-__a) verwendete Literatur__  
-
-## . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
-## Bücher
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+### Bücher
 + [Helter Skelter: Der Mordrausch des Charles Manson](https://wlb.ibs-bw.de/aDISWeb/app;jsessionid=F23DF95CE3E1EF228E688B531F978624)
 
 + [Ed Sanders: The Family – die Geschichte des Charles Manson ](https://wlb.ibs-bw.de/aDISWeb/app;jsessionid=F23DF95CE3E1EF228E688B531F978624)
@@ -1027,8 +1026,8 @@ __a) verwendete Literatur__
 + [Christiane von Beller : Berühmte Verbrecher (Stadtbibliothek Stuttgart)](https://link.springer.com/chapter/10.1007/978-3-662-58742-3_31)
 
 
-## . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
-## Online-Quellen
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+### Online-Quellen
 
 + [https://www.biography.com/crime-figure/charles-manson](https://www.biography.com/crime-figure/charles-manson)
 
@@ -1042,8 +1041,8 @@ __a) verwendete Literatur__
 
 + [https://www.sueddeutsche.de/thema/Charles_Manson](https://www.sueddeutsche.de/thema/Charles_Manson)
 
-## . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
-## Dokumentationen
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+### Dokumentationen
 
 
 + https://www.youtube.com/watch?v=iAu1Mc0KqJk
@@ -1053,28 +1052,28 @@ __a) verwendete Literatur__
 + https://www.youtube.com/watch?v=v4qZB2ytq10
 
 
-__b) Codebuch (Link auf Github)__  
+## __b) Codebuch (Link auf Github)__  
 
 [Codebuch Manson Projekt](https://raw.githubusercontent.com/thomas5nolte/Manson/master/Codebuch.md)
 
-__c) verwendete Datenquellen (Link auf Github Edge- und Nodelist)__  
+## __c) verwendete Datenquellen (Link auf Github Edge- und Nodelist)__  
 
-[+ [Nodelist Manson](https://raw.githubusercontent.com/thomas5nolte/Manson/master/nl_manson.csv)
-[+ [Edgelist Manson](https://raw.githubusercontent.com/thomas5nolte/Manson/master/el_manson.csv)
-[+ [Nodelist Film](https://raw.githubusercontent.com/thomas5nolte/Manson/master/nl_film.csv)
-[+ [Edgelist Film](https://raw.githubusercontent.com/thomas5nolte/Manson/master/el_film.csv)
++ [Nodelist Manson](https://raw.githubusercontent.com/thomas5nolte/Manson/master/nl_manson.csv)
++ [Edgelist Manson](https://raw.githubusercontent.com/thomas5nolte/Manson/master/el_manson.csv)
++ [Nodelist Film](https://raw.githubusercontent.com/thomas5nolte/Manson/master/nl_film.csv)
++ [Edgelist Film](https://raw.githubusercontent.com/thomas5nolte/Manson/master/el_film.csv)
 
 
-__d) komplettes annotiertes RNotebook (Link auf Github)__  
+## __d) komplettes annotiertes RNotebook (Link auf Github)__  
 
 Das RNotebook ist unter [https://raw.githubusercontent.com/thomas5nolte/Manson/master/Manson_version_1.2.7.rmd](https://raw.githubusercontent.com/thomas5nolte/Manson/master/Manson_version_1.2.7.rmd) erreichbar. 
 
-__e) TeilnehmerInnen des Projekts und Arbeitsaufwand im Projekt__  
+## __e) TeilnehmerInnen des Projekts und Arbeitsaufwand im Projekt__  
 
 
 |  Name|  Matrikelnummer|  Arbeitsaufwand|
 |--:|--:|--:|
-|  Frederike Fuhrmann|  1111|  zu viel|
+|  Frederike Fuhrmann|  37426|  zu viel|
 |  Eva McGowan|  36957|  zu viel|
 |  Thomas Nolte|  36867|  zu viel|
 |  Annika Stete|  37511|  zu viel|
